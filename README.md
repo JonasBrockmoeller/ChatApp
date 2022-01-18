@@ -4,6 +4,7 @@
 - [ ] GUI
 - [ ] Message Encryption
 - [ ] Database / Log
+- [ ] Send Media not only text
 
 ## How to get started
 ### Start the Server
